@@ -1,0 +1,6 @@
+{
+  "name": "Identify Earth Locations that Analog the Permanent Moon Base Locations and Mars",
+  "description": "Platform eksplorasi geologi interaktif NASA Space Apps Challenge untuk memetakan lokasi analog Bumi bagi basis permanen Bulan dan Mars menggunakan Leaflet.js dan OpenStreetMap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
